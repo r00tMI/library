@@ -23,4 +23,4 @@ This is where r00tMi shares books that its members found interesting.
 ## Intelligence
 - [Virtual Humint. La nuova frontiera dell'Intelligence](https://www.ibs.it/virtual-humint-nuova-frontiera-dell-libro-antonio-teti/e/9788849860078?inventoryId=157788929) by Antonio Teti
 - [Spycraft Revolution. Spionaggio e servizi segreti nel terzo millennio](https://www.ibs.it/spycraft-revolution-spionaggio-servizi-segreti-libro-antonio-teti/e/9788849867534?inventoryId=311599969) by Antonio Teti
-## Governance and compliance
+## Governance and compliance 
