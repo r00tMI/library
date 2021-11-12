@@ -9,11 +9,14 @@
 This is where r00tMi shares books that its members found interesting.
 
 ## TOC
+- [General](#general)
 - [Defensive Security](#defensive-security)
 - [Offensive Security](#offensive-security)
 - [Intelligence](#intelligence)
 - [Governance and compliance](#governance-and-compliance)
 
+## General
+- [The Hacker and the State Cyber Attacks and the New Normal of Geopolitics](https://www.hup.harvard.edu/catalog.php?isbn=9780674987555) by Ben Buchanan
 ## Defensive Security
 - [Practical Malware Analysis](https://nostarch.com/malware) by Michael Sikorski, Andrew Honig
 - [Adversarial Tradecraft in Cybersecurity](https://www.packtpub.com/product/adversarial-tradecraft-in-cybersecurity/9781801076203) by Dan Borges
